@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coroutil",
+  "name": "CoroUtil Library",
+  "description": "Collection of systems and helper code for Corosus's mods",
+  "version": "1.12.1-1.2.37",
+  "mcversion": "1.12.1",
+  "url": "http://Coros.us/",
+  "updateUrl": "",
+  "authorList": ["Corosus"],
+  "credits": "I'd like to thank Coro, Corosauce, and CordonFreeman for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
